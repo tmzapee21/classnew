@@ -1,0 +1,89 @@
+
+
+#mennav{
+    position: sticky;
+    border-radius: 5px;
+}
+
+#buscar{
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+#buscar input{
+    justify-content: center;
+    border-color: peru;
+    width: 500px;
+}
+
+#buscar button{
+    color: peru;
+    border-color: peru;
+
+}
+
+#buscar button:hover{
+    background-color: rgb(156, 101, 17);
+    color: rgb(75, 42, 18);
+    border-color: rgb(83, 42, 13);
+}
+
+#busc{
+    border-radius: 50px;
+    background-color: rgb(5, 4, 4);
+    color: rgb(170, 112, 5);
+    transition: 2;
+}
+
+#busc:hover{
+    border-radius: 15px 15px 15px 0px;
+    transition: 1.5s;
+}
+
+#letras a{
+    color: chocolate;
+}
+
+#letras a:hover{
+    color: rgb(253, 127, 0);
+    transition: 1s;
+}
+
+#l1:hover{
+    margin-right: 15px;
+    transition: 1.5s;
+}
+
+#l2:hover{
+    margin-left: 15px;
+    transition: 1.5s;
+}
+
+
+
+#bton{
+    border-radius: 15px 15px 15px 15px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin-right: 400px;
+}
+
+#bton1{
+    width: 150px;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 15px;
+    height: 45px;
+}
+
+#bton1:hover{
+    border-radius: 15px 15px 15px 0px;
+    transition: 1.5s;
+}
+
+#bton:hover{
+    border-radius: 15px 15px 15px 0px;
+    transition: 1.5s;
+}
+
